@@ -10,6 +10,8 @@ namespace HelloMVP
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello MVP");
+            Console.Read();
         }
     }
 }
